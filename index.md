@@ -210,7 +210,6 @@ Slidify, git and github
 
 ---
 
-<!---
 <font size=6 color="navy">
 Slidify, git and github
 </font>
@@ -223,11 +222,8 @@ Slidify, git and github
 <img src="assets/img/git.png"/>
 </center>
 
--->
-
 ---
 
-<!---
 <font size=6 color="navy">
 Slidify git and github
 </font>
@@ -239,11 +235,9 @@ Slidify git and github
 <center>
 <img src="assets/img/githuboctacat.jpg" width=600 height=250/>
 </center>
--->
 
 ---
 
-<!---
 # git
 
 - Have no idea what git does for you? Picture this!
@@ -251,12 +245,10 @@ Slidify git and github
 <center>
 <img src="assets/img/git_tree.png" width=1000 height=500 />
 </center>
--->
 
 ---
 
-<!---
 # That is All!
 
 `Thanks for your attention.`
--->
+
