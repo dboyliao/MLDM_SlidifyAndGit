@@ -248,7 +248,27 @@ Slidify git and github
 
 ---
 
+# git 常用指令
+
+## Local
+
+- git init
+ * 修改 code.....
+- git add ...
+- git commit -m "msg"
+
+## Remote
+
+- git remote add origin <remote url>
+- git push origin <branch name>
+
+
+---
+
 # That is All!
 
 `Thanks for your attention.`
+
+---
+
 
