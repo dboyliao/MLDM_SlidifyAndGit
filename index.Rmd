@@ -197,7 +197,6 @@ You should be able to see this slide over here:<br>
 
 --- 
 
-<!---
 <font size=6 color="navy">
 Slidify, git and github
 </font>
@@ -206,9 +205,8 @@ Slidify, git and github
 
 <center>
 <img src="assets/img/empty_github.png" width=800 height=400/>
-\<!--- width=800 height=400 ---\>
 </center>
---->
+
 
 ---
 
